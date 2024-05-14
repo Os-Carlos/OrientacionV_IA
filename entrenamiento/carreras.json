@@ -1,0 +1,100 @@
+{
+  "categorias": [
+    {
+      "nombre": "Humanidades",
+      "carreras": [
+        {
+          "nombre": "psicología",
+          "terminos": [
+            "empatía",
+            "empatico",
+            "empatica",
+            "comunicación",
+            "comunicar",
+            "escuchar activamente",
+            "escuchar atentamente",
+            "escuchar",
+            "psicoterapia",
+            "psicopatología",
+            "desarrollo humano",
+            "comprender",
+            "comprender personas",
+            "entender",
+            "ayudar",
+            "ayudar a otros",
+            "analizar",
+            "comportamiento",
+            "análisis de comportamiento",
+            "pensamiento",
+            "emociones",
+            "sentimientos",
+            "leer",
+            "deporte",
+            "música"
+          ]
+        },
+        {
+          "nombre": "derecho",
+          "terminos": [
+            "análisis crítico",
+            "argumentación",
+            "investigación",
+            "legislación",
+            "jurisprudencia",
+            "derechos humanos",
+            "justicia",
+            "defensa de derechos",
+            "resolver conflictos",
+            "debate",
+            "meditar"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Ingeniería",
+      "carreras": [
+        {
+          "nombre": "ingeniería en sistemas",
+          "terminos": [
+            "programación",
+            "programar",
+            "resolver problemas",
+            "resolución de problemas",
+            "análisis de sistemas",
+            "software",
+            "hardware",
+            "desarrollo de software",
+            "lógica",
+            "sistemas",
+            "bases de datos",
+            "base de datos",
+            "tecnología",
+            "tecnológico",
+            "computadora",
+            "computadoras",
+            "innovación",
+            "innovar",
+            "videojuegos",
+            "algoritmos"
+          ]
+        },
+        {
+          "nombre": "ingeniería eléctrica",
+          "terminos": [
+            "electricidad",
+            "electrónica",
+            "circuito eléctrico",
+            "energía renovable",
+            "sistemas de potencia",
+            "ingeniero eléctrico",
+            "máquinas eléctricas",
+            "automatización",
+            "control de procesos",
+            "energía solar"
+          ]
+        }
+      ]
+    }
+  ]
+}
